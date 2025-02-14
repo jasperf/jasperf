@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on several projects as WordPress developer
-- 👯 I’m looking to collaborate on technical project management, maintenance and WordPress development
-- 🤔 I’m looking for collabration on WordPress
-- 💬 Ask me about WordPress, WooCommerce 
+- 👯 I’m looking to collaborate as CTO or Senior Developer on WordPerss, WooCommerce, Shopify projects
+- 💬 Ask me about WordPress, WooCommerce, Shopify and SaaS
 - 📫 How to reach me: Github, LinkedIn
